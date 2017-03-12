@@ -1,0 +1,22 @@
+{
+  "name": "getprimes",
+  "version": "1.0.0",
+  "description": "getPrimes project for day1 home study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olarewajuakeemope/getPrimes.git"
+  },
+  "author": "Olarewaju Akeem Opeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olarewajuakeemope/getPrimes/issues"
+  },
+  "homepage": "https://github.com/olarewajuakeemope/getPrimes#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
