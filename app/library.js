@@ -23,4 +23,5 @@ module.exports = {
     }
     return prime_array;
   }
+  
 }
