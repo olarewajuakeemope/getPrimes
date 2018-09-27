@@ -1,5 +1,5 @@
 # getPrimes
-getPrimes project for day1 home study
+getPrimes project
 
 1. clone or download the application to your local computer
 2. run npm install in the root directory
